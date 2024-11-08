@@ -1,1 +1,2 @@
-# Power-BI-Assignments-Entri
+# Assignment 1
+In this assignment, I have done some basic cleaning and transformation functions. In the orders table, the postal code was 80 % empty. Hence, I have changed the Data Type to Text and imputed unknown in all the null values and valid became 100%. In the people table, the column headers were not correct and I have changed the headers by tapping on the "Use First Row as Headers". Also, there were some null values and I have deleted all the rows with null values in all the columns of the rows by selecting the option Remove Blank Rows. In the returns table,  the column headers were not correct and I have changed the headers by tapping on the "Use First Row as Headers".
